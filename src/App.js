@@ -12,7 +12,7 @@ function App() {
         <h1>Components: <a href="https://github.com/mrym-emm/for-yiju/tree/main" target="_blank">All on GitHub</a></h1>
       </header>
       <main>
-      <h2>For User Story 8? Phishing simulator </h2>
+      <h2>For User Story 8? Phishing simulator (this using AI api)</h2>
       <h3>File are YijuPhishingSimulator.js</h3>
         <YijuPhishingSimulator />
 
