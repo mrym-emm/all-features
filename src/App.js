@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Components: All on github</h1>
+        <h1>Components: <a href="https://github.com/mrym-emm/for-yiju/tree/main" target="_blank">All on GitHub</a></h1>
       </header>
       <main>
       <h2>For User Story 8? Phishing simulator </h2>
