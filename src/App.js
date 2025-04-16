@@ -20,7 +20,7 @@ function App() {
         <h3>Files YijuStoryGame.js</h3>
         <YijuStoryGame />
 
-        <h2>The same as above, just with the scroll right </h2>
+        <h2>The same as above, just with the scroll right. No need to implement this if it doesnt fit the theme of the website, idc</h2>
         <h3>Files are YijuScrollRight.js, YijuScrollRight.css and same as above, YijuStoryGame.js</h3>
         <YijuScrollRight />
       </main>
